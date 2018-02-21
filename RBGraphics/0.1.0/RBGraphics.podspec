@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.name = "RBGraphics"
     s.summary = "RBGraphics contains Custom graphics elements."
     s.requires_arc = true
-    s.swift_version = "3.2"
+    s.swift_version = '4.0'
 
     # Semantic Versionning - major.minor.patch
     s.version = "0.1.0"
